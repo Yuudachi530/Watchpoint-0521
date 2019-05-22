@@ -1,5 +1,5 @@
 # Watchpoint-0521
-L1 Introddunction
+L1 Introdunction
 
 Multiple Choice Answers
 Ex1:
@@ -48,4 +48,4 @@ int bool
 
 Ex10
 
-float 8.0
+float 8.0   float 2.5   bool t   float 2.5   int 3   float 7.0   bool t
